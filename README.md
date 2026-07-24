@@ -15,8 +15,16 @@ Alongside my technical work, I bring leadership experience from a residential ro
 
 ---
 ### 🛠️ Tech Stack
-`Python` `Java` `C++` `JavaScript` `SQL` `R Studio` `SPSS` `SAS` `Power BI` `Tableau` `HTML` `CSS` `Excel`
 
+### **How it looks**
+It’ll render exactly like your example image: chunky rounded badges with icons.
+
+**Notes:**
+1. `C%2B%2B` = C++ because + needs to be URL encoded
+2. `RStudio` and `Power_BI` use `_` for spaces in the URL
+3. For `SQL` I used the PostgreSQL logo since there’s no generic SQL logo. You can swap it to `mysql` if you prefer
+
+Want me to also group them like `Frontend | Backend | Data` like in your screenshot, or keep them all in one row?
 ### 📫 Connect
 - **Email**: blessingsmulaudzi@gmail.com
 - **Phone**: 072 832 1992  
