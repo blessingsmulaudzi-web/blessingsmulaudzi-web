@@ -11,7 +11,7 @@ Alongside my technical work, I bring leadership experience from a residential ro
 - 💻 **Building with**: `C++`, `Java`, `JavaScript`, `HTML`, `CSS`, `Excel Advanced`.
 - 🧠 **Strengths**: Statistical modelling, Problem-solving, EDA, Inferential Analysis, Attention to detail.
 - 🤝 **Ask me about**: Data Analytics, Business Intelligence, Research, Academic Leadership.
-- ⚡ **Fun fact**: I love thinking and learning.
+- ⚡ **Fun fact**: I don't love Manchester United.
 
 ---
 ### 🛠️ Tech Stack
