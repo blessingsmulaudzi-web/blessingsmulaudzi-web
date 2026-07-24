@@ -16,8 +16,6 @@ Alongside my technical work, I bring leadership experience from a residential ro
 ---
 ### ⚙️ Tech Stack
 
-### 🚀 Tech Stack
-
 **Languages**
 [Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 [Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
