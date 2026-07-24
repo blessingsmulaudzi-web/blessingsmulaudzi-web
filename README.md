@@ -21,6 +21,6 @@ Alongside my technical work, I bring leadership experience from a residential ro
 - **Email**: blessingsmulaudzi@gmail.com
 - **Phone**: 072 832 1992  
 - **Location**: Centurion, Gauteng
-- **LinkedIn**: [Add your link]
+- **LinkedIn**: [www.linkedin.com/in/mulaudzi-blessings-923561249]
 - **Licence**: Code 10
 
