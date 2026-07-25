@@ -1,3 +1,27 @@
+<h1 align="center">Hi, I'm Ndivho Blessings Mulaudzi 👋</h1>
+
+<h3 align="center">Statistics Honours Cum Laude | Data Scientist & Spatial Analyst building insights from data and maps</h3>
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/mulaudzi-blessings-923561249/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mulaudzi-blessings-923561249/" target="_blank">
+    <img src="https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge" alt="Connect"/>
+  </a>
+  <a href="mailto:blessingsmulaudzi@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="mailto:blessingsmulaudzi@gmail.com">
+    <img src="https://img.shields.io/badge/CONTACT-D14836?style=for-the-badge" alt="Contact"/>
+  </a>
+</p>
+
+---
+
+
+
 ### About Me
 
 I'm a **Statistics Honours Graduate | Cum Laude** based in **Centurion, Gauteng, South Africa**, and welcome to my GitHub profile.  
