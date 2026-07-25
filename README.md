@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ndivho Blessings Mulaudzi 👋</h1>
 
-<h3 align="center">Statistics Honours Cum Laude | Data Scientist & Spatial Analyst building insights from data and maps</h3>
+<h3 align="center"> Data Scientist & Spatial Analyst building insights from data and maps</h3>
 
 <p align="center">
 
